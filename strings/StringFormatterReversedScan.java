@@ -12,8 +12,4 @@ public class StringFormatterReversedScan {
         in.close();
     }
 }
-/*
- * System.out.println(StringFormatter.reverseString("I am jefferson"));
- * System.out.println(StringFormatter.
- * reverseString("Hi jefferson, hi lorena, my name is larissa"));
- */
+
